@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/image/Dia-danh/Thac-lung-o.jpg);
+}
+.Contact{
+    width: 550px;
+    height:520px ;
+    border-radius: 10px;
+    background-color:rgb(237, 225, 234);
+    margin:auto;
+    margin-top: 35px;
+}
+.Contact h1{
+    text-align: center;
+}
+.Contactone{
+    padding-left: 50px;
+    color: rgb(43, 14, 43);
+
+}
+.Contactone input{
+    color:grey;
+    width: 453px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    border: px solid black;
+
+}
+.Contactone p input{
+    margin-left: 200px;
+    background-color:azure;
+    padding: 5px 5px;
+    border-radius: 5px;
+    width: 70px;
+    border-color:cyan;
+}
+.Contactone p input:hover{
+    font-weight: bold;
+    background-color: rgb(111, 219, 231);
+    color:azure;
+}
